@@ -1,6 +1,6 @@
 
 import { OrbitControls } from 'https://threejs.org/examples/jsm/controls/OrbitControls.js';
-alert("Model may take some time to load. Please be patient!");
+
 let container;
 let camera;
 let renderer;
